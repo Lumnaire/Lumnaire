@@ -12,15 +12,15 @@
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo" /> &nbsp;
-  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=06B6D4&label=" height="28" />
 </p>
 
 #### 🎨 UI/UX Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" /> &nbsp;
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.icons8.com/color/48/adobe-xd.png" height="32" />
+  <img src="https://img.icons8.com/color/48/framer.png" height="32" />
 </p>
 
 ---
