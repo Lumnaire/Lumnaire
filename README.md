@@ -12,7 +12,7 @@
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,expo" />
 </p>
 
 #### 🎨 UI/UX Design
