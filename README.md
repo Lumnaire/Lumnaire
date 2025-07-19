@@ -12,7 +12,8 @@
 
 #### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" height="40" />
 </p>
 
 #### 🎨 UI/UX Design
