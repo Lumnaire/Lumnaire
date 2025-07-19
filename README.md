@@ -5,34 +5,20 @@
 
 ### 💻 Tech Stack:
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+#### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,django,react,vite,vercel,mysql,mongodb" />
+</p>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px;">
-    <h4 align="center">🌐 Web Development</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,django,react,vite,vercel,mysql,mongodb" />
-    </p>
-  </div>
+#### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px;">
-    <h4 align="center">📱 Mobile Development</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=react" />
-      <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" height="32" />
-    </p>
-  </div>
-
-  <div style="border: 1px solid #e1e4e8; border-radius: 12px; padding: 16px; width: 300px;">
-    <h4 align="center">🎨 UI/UX Design</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=figma" />
-      <img src="https://img.icons8.com/color/48/adobe-xd.png" height="32" />
-      <img src="https://img.icons8.com/color/48/framer.png" height="32" />
-    </p>
-  </div>
-
-</div>
-
+#### 🎨 UI/UX Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
 
 ---
 
