@@ -7,7 +7,7 @@
 
 #### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,django,react,vite,vercel,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,django,react,typescript,vite,vercel,mysql,mongodb" />
 </p>
 
 #### 📱 Mobile Development
