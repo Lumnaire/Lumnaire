@@ -19,7 +19,7 @@
 
 - 💻 Passionate about building full-stack web and mobile apps
 - 🎨 Loves designing clean, user-centered UI/UX
-- 📱 Currently focused on React Native and backend APIs
+- 📱 Currently focused on Frontend Development
 - 🌱 Exploring advanced DevOps and scalable app architecture
 
 ---
