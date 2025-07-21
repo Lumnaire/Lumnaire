@@ -29,27 +29,12 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 
 <!-- Web Dev -->
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,laravel,python,django,react,vite,vercel,mysql,mongodb" height="30" />
-
-<!-- Appwrite -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" alt="appwrite" height="30" />
-
-<!-- Mobile -->
-<img src="https://skillicons.dev/icons?i=react" height="30" />
-<img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" height="30" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,typescript,php,laravel,python,django,vercel,mysql,mongodb" height="30" />
 
 <!-- UI/UX -->
 <img src="https://skillicons.dev/icons?i=figma" height="30" />
-<img src="https://img.icons8.com/color/48/adobe-xd.png" height="30" />
-<img src="https://img.icons8.com/color/48/framer.png" height="30" />
 
 </div>
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaldcastromero&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldcastromero&layout=compact&theme=tokyonight" height="160"/>
-</p>
