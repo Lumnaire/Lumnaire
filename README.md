@@ -8,7 +8,7 @@
   <a href="mailto:lumnaire.coding@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://castromero-ronald-portfolio.vercel.app/](https://castromero-ronald-portfolio.vercel.app/)" target="_blank">
+  <a href="https://castromero-ronald-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logoColor=white"/>
   </a>
 </p>
